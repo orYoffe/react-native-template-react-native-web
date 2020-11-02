@@ -6,11 +6,10 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "start": "react-native start",
-    "test:native": "jest",
     "lint": "eslint .",
     "web": "react-scripts start",
     "build": "react-scripts build",
-    "test:web": "react-scripts test",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "dependencies": {
@@ -25,15 +24,9 @@
     "@babel/core": "^7.8.4",
     "@babel/runtime": "^7.8.4",
     "@react-native-community/eslint-config": "^1.1.0",
-    "babel-jest": "^25.1.0",
-    "eslint": "^6.5.1",
-    "jest": "^25.1.0",
     "metro-react-native-babel-preset": "^0.63.0",
     "react-test-renderer": "17.0.1",
     "react-native-codegen": "0.0.4"
-  },
-  "jest": {
-    "preset": "react-native-web"
   },
   "browserslist": {
     "production": [
