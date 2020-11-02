@@ -1,10 +1,10 @@
 {
   "name": "react-native-template-react-native-web",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Native template for a quick start with React Native Web.",
   "scripts": {},
   "files": [
-    "template",
+    "rnwapp",
     "template.config.js"
   ],
   "repository": {
