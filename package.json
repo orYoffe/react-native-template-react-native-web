@@ -4,7 +4,7 @@
   "description": "React Native template for a quick start with React Native Web.",
   "scripts": {},
   "files": [
-    "rnwapp",
+    "template",
     "template.config.js"
   ],
   "repository": {

@@ -1,4 +1,5 @@
 module.exports = {
-  placeholderName: "rnwapp",
-  templateDir: "./rnwapp",
+  placeholderName: "HelloWorld",
+  titlePlaceholder: "Hello App Display Name",
+  templateDir: "./template",
 };
