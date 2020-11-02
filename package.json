@@ -1,0 +1,28 @@
+{
+  "name": "react-native-template-react-native-web",
+  "version": "0.0.1",
+  "description": "React Native template for a quick start with React Native Web.",
+  "scripts": {},
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orYoffe/react-native-template-react-native-web.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "react-native-web",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Or Yoffe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orYoffe/react-native-template-react-native-web/issues"
+  },
+  "homepage": "https://github.com/orYoffe/react-native-template-react-native-web#readme"
+}
