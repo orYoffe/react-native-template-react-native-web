@@ -24,9 +24,8 @@
     "@babel/core": "^7.8.4",
     "@babel/runtime": "^7.8.4",
     "@react-native-community/eslint-config": "^1.1.0",
-    "metro-react-native-babel-preset": "^0.64.0",
-    "react-test-renderer": "17.0.1",
-    "react-native-codegen": "0.0.4"
+    "metro-react-native-babel-preset": "^0.59.0",
+    "react-test-renderer": "17.0.1"
   },
   "browserslist": {
     "production": [
